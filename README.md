@@ -1,2 +1,2 @@
-# Tugas-PWEB---Warteg
-Tugas 3 : HTML , CSS, &amp; JS
+# Tugas-PWEB3
+Membuat website warteg dengan menggunakan HTML, CSS, Jdan S
