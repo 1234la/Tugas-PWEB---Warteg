@@ -1,2 +1,2 @@
 # Tugas-PWEB 3
-Membuat website warteg dengan menggunakan HTML, CSS, dan JS
+Membuat website warung tegal dengan menggunakan HTML, CSS, dan JS
